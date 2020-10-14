@@ -1,27 +1,8 @@
 
 
-
-
-/* var cardContainer = document.getElementById("card");
-var titleContainer = document.getElementById("title-info");
-var ratingContainer = document.getElementById("rating-info");
-var servingContainer = document.getElementById("serving-info");
-var prepTimeContainer = document.getElementById("prepTime-info");
-var cookingTimeContainer = document.getElementById("cookingTime-info");
-var skillLevelContainer = document.getElementById("skillLevel-info");
-var sourceContainer = document.getElementById("source-info");
-var ingredientsContainer = document.getElementById("ingredients-info");
-var prepMethodsContainer = document.getElementById("prepMethods-info");
-
-var testBtn = document.getElementById("testBtn");
-
-
-var searchBtn = document.getElementById("searchBtn");*/
 let randomBtn = document.getElementById("randomBtn"); 
 
 randomBtn.addEventListener("click", loadJSON);
-
-
 
 
   // parse the dataset into a js object
@@ -69,20 +50,6 @@ randomBtn.addEventListener("click", loadJSON);
  }
  
    
-
- 
-
-
-
-
-  
-  
-
-
-
-
-
-
 
 //////////////////////////////////////////////////////////////////////////
 //////////Button Generators//////////
