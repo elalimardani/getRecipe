@@ -7,7 +7,7 @@ randomBtn.addEventListener("click", loadJSON);
 
   // parse the dataset into a js object
   function loadJSON() {
-    let dataUrlString = "https://raw.githubusercontent.com/elalimardani/dump/main/bbc_food.json";
+    let dataUrlString = "https://raw.githubusercontent.com/elalimardani/getRecipe/master/res/bbc_food.json";
     let http_request = new XMLHttpRequest();
     try{
        // Opera 8.0+, Firefox, Chrome, Safari
