@@ -3,7 +3,9 @@ body{
   background: url("res/png2.png") no-repeat top right , radial-gradient(circle, rgba(46,46,46,1) 0%, rgba(0,0,0,1) 100%);
 }
 
-
+h1{
+  color: #b61f1f;
+}
 
 .hide-me{
     display: none;
